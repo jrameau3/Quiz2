@@ -1,0 +1,164 @@
+{
+  "quiz2": [
+    {
+      "id": 1,
+      "questionType": "multiple_choice",
+      "questionText": "1. How do you insert comments in Java code?",
+      "correctAnswer": "//comment",
+      "options": ["//comment", "#comment", "/*comment", "/comment/"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 2,
+      "questionType": "checkbox",
+      "questionText": "2. Select Java Operators",
+      "correctAnswer": ["+ sign","* sign"],
+      "options": ["+ sign", "* sign", "$ sign", "All of the above"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 3,
+      "questionType": "true_false",
+      "questionText": "3. Java is short for JavaScript.",
+      "correctAnswer": "False",
+      "options": ["True", "False"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 4,
+      "questionType": "multiple_choice",
+      "questionText": "4. Which data type is used to create a variable that should store text?",
+      "correctAnswer": "String",
+      "options": ["String", "string", "Txt","myString"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 5,
+      "questionType": "text_input",
+      "questionText": "5. The ___ operator is used to add together two values",
+      "correctAnswer": "+",
+      "answerFieldId": "answer_to_question",
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 6,
+      "questionType": "multiple_choice",
+      "questionText": "6. How do you create a variable with the numeric value 5?",
+      "correctAnswer": "int x=5;",
+      "options": ["int x=5;", "num x=5", "x=5;", "float x=5;"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 7,
+      "questionType": "text_input",
+      "questionText": "7. The ___ operator is used to multiply together two values",
+      "correctAnswer": "*",
+      "answerFieldId": "answer_to_question",
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 8,
+      "questionType": "multiple_choice",
+      "questionText": "8. Which method can be used to find the length of a string?",
+      "correctAnswer": "length()",
+      "options": ["length()", "len()", "getLength()", "getSize()"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 9,
+      "questionType": "multiple_choice",
+      "questionText": "9. Which method can be used to return a string in upper case letters?",
+      "correctAnswer": "toUppercase()",
+      "options": ["toUppercase()", "touppercase()", "tuc()", "upperCase()"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 10,
+      "questionType": "text_input",
+      "questionText": "10. Declare a Java String variable named firstName",
+      "correctAnswer": "String firstName;",
+      "answerFieldId": "answer_to_question",
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 11,
+      "questionType": "multiple_choice",
+      "questionText": "11. To declare an array in Java, define the variable type with:",
+      "correctAnswer": "[]",
+      "options": ["[]", "()", "{}", "\/"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 12,
+      "questionType": "multiple_choice",
+      "questionText": "12. How do you create a method in Java?",
+      "correctAnswer": "methodName()",
+      "options": ["methodName.", "(methodname)", "methodName()","methodName[]"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 13,
+      "questionType": "multiple_choice",
+      "questionText": "13. How do you call a method in Java?",
+      "correctAnswer": "methodName();",
+      "options": ["methodName();", "methodName;", "methodName[];", "(methodName);"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 14,
+      "questionType": "multiple_choice",
+      "questionText": "14. Which keyword is used to import a package from the Java API library?",
+      "correctAnswer": "import",
+      "options": ["getlib", "import", "package", "lib"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 15,
+      "questionType": "text_input",
+      "questionText": "15. Array indexes start with:",
+      "correctAnswer": "0",
+      "answerFieldId": "answer_to_question",
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 16,
+      "questionType": "multiple_choice",
+      "questionText": "16. Which keyword is used to return a value inside a method?",
+      "correctAnswer": "return",
+      "options": ["get", "break", "return", "void"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 17,
+      "questionType": "true_false",
+      "questionText": "17. Break is a statement that is used to stop a loop",
+      "correctAnswer": "True",
+      "options": ["True", "False"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 18,
+      "questionType": "true_false",
+      "questionText": "18. Java is case-sensitive",
+      "correctAnswer": "True",
+      "options": ["True", "False"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 19,
+      "questionType": "true_false",
+      "questionText": "19. In Java, it is possible to inherit attributes and methods from one class to another.",
+      "correctAnswer": "True",
+      "options": ["True", "False"],
+      "feedback": ["Correct!"]
+    },
+    {
+      "id": 20,
+      "questionType": "true_false",
+      "questionText": "20. Package is the keyword used to import a package from the Java API library",
+      "correctAnswer": "False",
+      "options": ["True", "False"],
+      "feedback": ["Correct!"]
+    }
+  ]
+}
