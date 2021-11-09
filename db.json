@@ -10,10 +10,10 @@
     },
     {
       "id": 2,
-      "questionType": "checkbox",
-      "questionText": "2. Select Java Operators",
-      "correctAnswer": ["+ sign","* sign"],
-      "options": ["+ sign", "* sign", "$ sign", "All of the above"],
+      "questionType": "multiple_choice",
+      "questionText": "2. Which is a Java Operator",
+      "correctAnswer": ["All of the above"],
+      "options": ["+ sign", "* sign", "- sign", "All of the above"],
       "feedback": ["Correct!"]
     },
     {
